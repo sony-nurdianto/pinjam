@@ -15,7 +15,7 @@ const Navbars = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
                     <Nav.Link to="/"><strong>Tentang</strong></Nav.Link>
-                    <Nav.Link to="/"><strong>Fitur & Bank Pilihan</strong></Nav.Link>
+                    <Nav.Link to="/"><strong>Fitur</strong></Nav.Link>
                     <Nav.Link to="/"><strong>Testimoni</strong></Nav.Link>
                     <Nav.Link to="/"><strong>Kontak</strong></Nav.Link>
                 </Nav>
