@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Navbar.js'
+// import Navbar from './components/Navbar.js'
 // import Home from './Pages/Home'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 // import "./style.css"
@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 function App() {
   return (
     <Router>
-      <Navbar />
+      {/* <Navbar /> */}
       <Switch>
         {/* <Route exact path="/"><Home /></Route> */}
       </Switch>
